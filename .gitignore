@@ -1,7 +1,7 @@
 venv
 .env
-tests
-__pycache__
-src/kube_debugger/__pycache__
-src/kube_debugger/pod/__pycache__
-src/kube_debugger/utils/__pycache__
+tests/
+__pycache__/
+src/kube_debugger/__pycache__/
+src/kube_debugger/pod/__pycache__/
+src/kube_debugger/utils/__pycache__/  
