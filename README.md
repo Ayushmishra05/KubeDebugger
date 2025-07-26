@@ -48,6 +48,21 @@ export GROQ_API_KEY=<api_key>
 ⚠️ Remember:  AI is an Experimental feature, and we will soon rollout the working Version 
 `
 
+## How To ? 
+
+```bash
+kubectl get pods
+```
+
+![Output](image2.png) 
+
+```bash
+debug pod pod2
+```
+![Output](image.png) 
+
+
+
 ## Contributions are Encouraged 
 
 - I would love to know your perspective 

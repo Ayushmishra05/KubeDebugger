@@ -1,0 +1,7 @@
+langchain_core==0.3.72
+langchain_groq==0.3.6
+python-dotenv==1.1.1
+PyYAML==6.0.1
+Requests==2.32.4
+setuptools==69.5.1
+typer==0.16.0

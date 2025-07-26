@@ -1,6 +1,6 @@
 venv
 .env
-tests/
+./tests/
 __pycache__/
 src/kube_debugger/__pycache__/
 src/kube_debugger/pod/__pycache__/
